@@ -14,12 +14,12 @@ You can find the assignment tracker [online here](https://docs.google.com/spread
 
 | Material     | Link                         |
 |:------------:| ----------------------------:|
-| Presentation | https://tinyurl.com/hahgxj4  |
+| Presentation |  https://tinyurl.com/hahgxj4 |
 | Presentation |  https://tinyurl.com/hp4hjzf |
 | Presentation |  https://tinyurl.com/hre4apz |
 | Presentation |  https://tinyurl.com/jz6gj5x |
 | Presentation |  https://tinyurl.com/zoj225d |
-| Presentation |  hhttps://tinyurl.com/zd4gwhf|
+| Presentation |  https://tinyurl.com/zd4gwhf |
 | Presentation |  https://tinyurl.com/hp4hjzf |
 | Presentation |  https://tinyurl.com/gwrwyfo |
 | Presentation |  https://tinyurl.com/jj9l7sc |
@@ -32,7 +32,15 @@ You can find the assignment tracker [online here](https://docs.google.com/spread
 | Presentation |  https://tinyurl.com/heuwlfz |
 | Presentation |  https://tinyurl.com/z8r8v8f |
 | Presentation |  https://tinyurl.com/z49d84r |
-
+|:------------:| ----------------------------:|
+| Video        |  https://tinyurl.com/hx8hols |
+| Video        |  https://tinyurl.com/z7q3xuv |
+| Video        |  https://tinyurl.com/z7neg9s |
+| Video        |  https://tinyurl.com/hzq5on2 |
+| Video        |  https://tinyurl.com/z3o4hls |
+| Video        |  https://tinyurl.com/j7kltxj |
+| Video        |  https://tinyurl.com/z9eqe3v |
+| Video        |  https://tinyurl.com/hvhuu2k |
 
 
 
